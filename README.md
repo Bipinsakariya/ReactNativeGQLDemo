@@ -28,5 +28,5 @@ This template follows a very simple project structure:
 - `styles`: Folder that contains globalStyle & colors .
 - `utils`: Folder that contains basic value names like screenNames & utility functions.
 
-## Notes: 
+## Notes for the Project: 
 - SVG rendering issue - React native built-in Flat List having some basic flows & features, here sometimes font error occurs when sorting the data to the list. This all is depending upon that size and SVG rendering content, This is the known bug from my side. Although performance can be optimised , it takes some amount of time.
